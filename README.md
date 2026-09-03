@@ -8,7 +8,6 @@ A `for` loop repeats a block of code while a condition is true.
 
 ### Syntax
 
-```js
 for (initialization; condition; update) {
   // code to execute
 }
